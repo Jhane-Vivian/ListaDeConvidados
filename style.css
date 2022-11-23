@@ -1,0 +1,43 @@
+/*Estilizando a sessão atualizarLista*/
+#atualizarLista
+{
+    background-color: rgb(221, 186, 255);
+    padding: 20px;
+    border-style:double;
+    border-color: rgb(168, 74, 255);
+    color:blueviolet;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*Estilizando o botão da sessão atualizarLista*/
+#atualizarLista button
+{
+    background-color: blueviolet;
+    color:white;
+    font-weight: 700;
+    margin-top: 10px;
+    border-color: rgb(168, 96, 235);
+}
+
+/*Estilizando a input da sessão atualizarLista*/
+#atualizarLista input
+{
+    border-color: rgb(168, 96, 235) ;
+    color: rgb(59, 7, 107);
+    font-weight: 700;
+    padding-left: 5px;
+
+
+}
+
+/*Estilizando a span que exibe os nomes*/
+#atualizandoLista
+{
+    font-size: 20px;
+}
+
+/*Estilizando o Titulo*/
+h1{
+    color:rgb(59, 7, 107);
+}
